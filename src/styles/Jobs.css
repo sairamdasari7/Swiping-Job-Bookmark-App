@@ -1,0 +1,36 @@
+.jobs-container {
+  padding: 20px;
+}
+
+.notification {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+
+.job-card {
+  background-color: white; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer; 
+  user-select: none; 
+  transition: transform 0.2s; 
+}
+
+.job-card:hover {
+  background-color: #f0f0f0; 
+  transform: scale(1.02); 
+}
+
+.load-more-container {
+  margin-top: 20px;
+}
