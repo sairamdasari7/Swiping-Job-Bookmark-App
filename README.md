@@ -2,6 +2,10 @@
 
 A Progressive Web Application (PWA) that allows users to browse job cards and bookmark/unbookmark jobs by swiping left or right. It also provides a bottom navigation to switch between the Job List and Bookmark pages.
 
+## Published URL
+
+   https://swipingjobbookmarkapp.netlify.app/
+
 ## Features
 
 - **Swipeable Job Cards**: Swipe right to bookmark jobs and swipe left to unbookmark them.
