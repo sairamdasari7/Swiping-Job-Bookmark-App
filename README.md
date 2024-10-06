@@ -4,7 +4,7 @@ A Progressive Web Application (PWA) that allows users to browse job cards and bo
 
 ## Published URL
 
-   https://swipingjobbookmarkapp.netlify.app/
+   https://swiping-job-bookmark-app.vercel.app/
 
 ## Features
 
