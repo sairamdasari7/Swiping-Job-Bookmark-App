@@ -52,7 +52,7 @@ class Jobs extends Component {
               key={job.id}
               job={job}
               onSwipeRight={() => {
-                this.props.onBookmark(job); // Notify the App component to bookmark the job
+                this.props.onBookmark(job); 
                 this.setState({ notification: `${job.title} added to bookmarks!` });
               }}
               onSwipeLeft={() => {
